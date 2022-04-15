@@ -1,0 +1,14 @@
+/*Style the body element*/
+body {
+    text-align: center;
+    background-color: #96b4e5;
+    color: aliceblue;
+}
+/*Style the container classes*/
+.container {
+    padding: 20px;
+}
+/*Style the container classes*/
+.row {
+    padding: 20px;
+}
